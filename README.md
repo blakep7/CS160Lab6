@@ -8,3 +8,9 @@ CONTACT:
 email: bpearson7860@sdsu.edu
 
 DESCRIPTION OF EACH FILE:
+Main.java -- Used to run the coffee application and other methods in the class
+PointSystem.java -- Used to implement a point system within the coffee application that rewards customers
+BasicCoffee.java,BlackCoffe.java,Coffee.java,CoffeeDecorator.java,espresso.java,hotwater.java,milk.java,sugar.java,whippedcream.java -- All used to decorate and create coffee orders within the application
+inventory.txt -- a inventory file that keeps track of current inventory
+LogFile.txt -- logs all purchase receipts
+points.txt -- keeps track of customer rewardsID and the points associated with them.
