@@ -1,0 +1,7 @@
+Writing orders from stack 2022-06-30 at 22:14:00 PDT
+RECEIPT
+Item 1: Black coffee-milk-sugar-whipped cream | Cost: 1.15
+Item 2: Black coffee-milk-Hot Water-sugar-whipped cream -Espresso Shot-sugar-whipped cream | Cost: 1.65
+Item 3: Black coffee-Hot Water-whipped cream | Cost: 0.95
+You used 500 points on this order and have 500 points remaining in your account.
+TOTAL COST OF ORDER: 1.88

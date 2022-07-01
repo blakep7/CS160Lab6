@@ -1,0 +1,6 @@
+Black Coffee = 1
+Milk = 4
+HotWater = 99998
+Espresso = 3
+Sugar = 22
+WhippedCream = 16
